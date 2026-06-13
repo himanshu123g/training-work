@@ -1,0 +1,1 @@
+Based on the predictions on the same dataset, the machine learning model has higher accuracy compared to the deep learning model. Therefore, the machine learning model performs better.
